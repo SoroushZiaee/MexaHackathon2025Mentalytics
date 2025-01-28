@@ -1,0 +1,24 @@
+I am a cognitive behavioral therapist specializing in social anxiety in adults. I am interested in utilizing a large language model like Gemini to assist in treatment planning.
+
+Specifically, I would like Gemini to:
+
+1. Analyze the Anonymized LSAS Responses: Given a client's responses to each of the 24 items on the Liebowitz Social Anxiety Scale (LSAS),
+    a) Identify the specific social situations that elicit the highest levels of fear and avoidance.
+    b) Determine the core themes and patterns within the client's responses.
+    Here are the LSAS responses:
+    <insert template responses here>
+
+2. Recommend Tailored Interventions: based on the analyzed responses suggest and provide instructions for 
+    a) one mindfulness exerciese the client can use when they feel anxious today 
+        (examples include: Daily Mindfulness practice (focusing on breath, walking), five senses exercise(Notice 5 see, 4 hear, 3 touch, 2 smell, 1 taste while anxious), anchor statements(“I can handle this moment.”), self compassion journaling)
+    b) one cognitive-behavioral exercises the client can try today to reframe their thoughts
+        (examples include: Thought records, journaling, cognitive restructuring(replacing negative with positive thoughts))
+    c) one way the client can incorporate art or crafting into their life to mitigate anxiety today
+        (examples include:
+          - Art: emotion drawing, social confidence collage(like a manifest board), visual journaling, self-portrait)
+          - Music: playlist(that helps you calm), improvisation through playing instruments, reflective listening, voice work
+          - Drama: role rehearsals, character exploration, storytelling, public speaking practice in private
+          - Movement: movement journaling, empowerment poses, dance your emotions, social flow practice
+          - Writing: freewriting about emotions, letter writing(letter to your social anxiety as if it were a person), poetic reflection, affirmation scripts, alternative happy ending, future visualization, letter to future self
+          - Crafting: mindful crafting, community workshops, gilft creation, craft reflection
+    d) one resources the client can check out today (e.g., a book, podcast, movie, TV show, paper, thought piece, article that expresses the voices of others with social anxiety)
