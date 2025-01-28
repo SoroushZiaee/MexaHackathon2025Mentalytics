@@ -1,4 +1,4 @@
-Situations, higher numbers indicate more severe social anxiety within the last week 
+Situations, higher numbers indicate more severe social anxiety within the last week, highest possible score for fear and avoidance is 3
 
 Using a telephone in public Fear: Avoidance:
 Participating in a small group activity Fear: Avoidance:
@@ -24,3 +24,5 @@ Trying to make someone's acquaintance for the purpose of a romantic/sexual relat
 Returning goods to a store for a refund Fear: Avoidance:
 Giving a party Fear: Avoidance:
 Resisting a high pressure sales person Fear: Avoidance:
+
+total: Fear: Avoidance:
