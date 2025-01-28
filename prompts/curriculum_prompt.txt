@@ -1,8 +1,6 @@
-I am a cognitive behavioral therapist specializing in social anxiety in adults. I am interested in utilizing a large language model like Gemini to assist in treatment planning.
+I am a cognitive behavioral therapist specializing in social anxiety in adults, could you please help me: 
 
-Specifically, I would like Gemini to:
-
-1. Analyze the Anonymized LSAS Responses: Given a client's responses to each of the 24 items on the Liebowitz Social Anxiety Scale (LSAS),
+1. Analyze the Anonymized LSAS Responses: with this client's responses to each of the 24 items on the Liebowitz Social Anxiety Scale (LSAS), please do the following;
     a) Identify the specific social situations that elicit the highest levels of fear and avoidance.
     b) Determine the core themes and patterns within the client's responses.
     Here are the LSAS responses:
