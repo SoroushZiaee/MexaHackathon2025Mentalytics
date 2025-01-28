@@ -1,0 +1,25 @@
+Situations,Fear,Avoidance
+Using a telephone in public,1,1
+Participating in a small group activity,1,1
+Eating in public,1,1
+Drinking with others,1,1
+Talking to someone in authority,2,1
+Acting, performing, or speaking in front of an audience,2,2
+Going to a party,2,1
+Working while being observed,1,1
+Writing while being observed,1,1
+Calling someone you don't know very well,1,1
+Talking face to face with someone you don't know very well,2,1
+Meeting strangers,1,1
+Urinating in a public bathroom,1,1
+Entering a room when others are already seated,1,1
+Being the center of attention,2,2
+Speaking up at a meeting,1,1
+Taking a test of your ability, skill, or knowledge,1,1
+Expressing disagreement or disapproval to someone you don't know very well,2,1
+Looking someone who you don't know very well straight in the eyes,1,1
+Giving a prepared oral talk to a group,2,2
+Trying to make someone's acquaintance for the purpose of a romantic/sexual relationship,2,1
+Returning goods to a store for a refund,1,1
+Giving a party,2,1
+Resisting a high pressure sales person,1,1
