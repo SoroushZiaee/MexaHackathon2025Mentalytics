@@ -1,26 +1,25 @@
-Situations	Fear	Avoidance
-Using a telephone in public	1	1
-Participating in a small group activity	2	2
-Eating in public	1	1
-Drinking with others	1	1
-Talking to someone in authority	2	2
-Acting, performing, or speaking in front of an audience	3	3
-Going to a party	2	2
-Working while being observed	2	1
-Writing while being observed	1	1
-Calling someone you don't know very well	2	2
-Talking face to face with someone you don't know very well	3	2
-Meeting strangers	2	1
-Urinating in a public bathroom	1	1
-Entering a room when others are already seated	1	1
-Being the center of attention	3	3
-Speaking up at a meeting	2	1
-Taking a test of your ability, skill, or knowledge	2	1
-Expressing disagreement or disapproval to someone you don't know very well	2	2
-Looking someone who you don't know very well straight in the eyes	1	1
-Giving a prepared oral talk to a group	3	3
-Trying to make someone's acquaintance for the purpose of a romantic/sexual relationship	3	3
-Returning goods to a store for a refund	1	1
-Giving a party	3	2
-Resisting a high pressure sales person	2	1
-total 
+Situations,Fear,Avoidance
+Using a telephone in public,1,1
+Participating in a small group activity,2,2
+Eating in public,1,1
+Drinking with others,1,1
+Talking to someone in authority,2,2
+Acting, performing, or speaking in front of an audience,3,3
+Going to a party,2,2
+Working while being observed,2,1
+Writing while being observed,1,1
+Calling someone you don't know very well,2,2
+Talking face to face with someone you don't know very well,3,2
+Meeting strangers,2,1
+Urinating in a public bathroom,1,1
+Entering a room when others are already seated,1,1
+Being the center of attention,3,3
+Speaking up at a meeting,2,1
+Taking a test of your ability, skill, or knowledge,2,1
+Expressing disagreement or disapproval to someone you don't know very well,2,2
+Looking someone who you don't know very well straight in the eyes,1,1
+Giving a prepared oral talk to a group,3,3
+Trying to make someone's acquaintance for the purpose of a romantic/sexual relationship,3,3
+Returning goods to a store for a refund,1,1
+Giving a party,3,2
+Resisting a high pressure sales person,2,1
