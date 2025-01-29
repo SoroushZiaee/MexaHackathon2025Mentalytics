@@ -7,7 +7,7 @@ Project for MEXA (Mental Health x AI) hackathon - January 2025.
 In this version, we focused on clients who work from home and experience social anxiety. We used the Liebowitz Social Anxiety Scale (LSAS) for assessment. As clients complete the survey, clinicians receive their responses along with Gemini's analysis and personalized homework recommendations. This helps clinicians quickly assess social anxiety levels, track progress over time, and provide targeted interventions more efficiently.
 
 - [Gemini_integration.ipynb](https://github.com/SoroushZiaee/MexaHackathon2025Mentalytics/blob/main/Gemini_integration.ipynb) notebook has the step by step Gemini integration, as well as example cases.
-- The application includes features for: <\b >
+- [app.py](https://github.com/SoroushZiaee/MexaHackathon2025Mentalytics/blob/main/apis/app.py) script has the application code. The application includes features for:<br>
   - client and clinician registration.
   - LSAS survey submission and tracking
   - progress monitoring
