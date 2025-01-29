@@ -1,4 +1,4 @@
-# TherAssist: AI-Powered Homework Generator for Clinicians
+# TheraAssist: AI-Powered Homework Generator for Clinicians
 
 Project for MEXA (Mental Health x AI) hackathon.
 
