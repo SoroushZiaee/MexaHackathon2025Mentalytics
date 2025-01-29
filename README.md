@@ -8,7 +8,7 @@ We focus on clients who work from home and experience social anxiety. We used th
 
 - [Gemini_integration.ipynb](https://github.com/SoroushZiaee/MexaHackathon2025Mentalytics/blob/main/Gemini_integration.ipynb) notebook has the step by step Gemini integration, as well as example cases.
 - [app.py](https://github.com/SoroushZiaee/MexaHackathon2025Mentalytics/blob/main/apis/app.py) script has the application code. The application includes features for:<br>
-  - client and clinician registration.
+  - client and clinician registration
   - LSAS survey submission and tracking
   - progress monitoring
   - exercise assignments
