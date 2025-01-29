@@ -1,6 +1,6 @@
 # TheraAssist: AI-Powered Homework Generator for Clinicians
 
-Project for MEXA (Mental Health x AI) hackathon.
+Project for MEXA (Mental Health x AI) hackathon - January 2025.
 
 **TheraAssist** is an AI-powered assistant designed to help clinicians create personalized homework assignments for clients. Clinicians provide assessment surveys, which clients complete, and the AI analyzes this data to generate customized, research-backed exercises. These exercises are delivered through a mobile app that sends reminders and notifications to support homework completion. Clinicians retain full control, selecting the most relevant exercises to ensure quality, appropriateness, and minimal burden on clients. By streamlining homework creation, TherAssist enhances therapeutic outcomes while reducing clinicians’ workload! 
 
