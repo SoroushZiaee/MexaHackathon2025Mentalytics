@@ -13,6 +13,6 @@ In this version, we focused on clients who work from home and experience social 
   - progress monitoring
   - exercise assignments
   - analytics dashboard
-- **Demo:**
+- **Demo:**<br>
 ![](https://github.com/SoroushZiaee/MexaHackathon2025Mentalytics/blob/main/TheraAssistant-demo.gif)
 
